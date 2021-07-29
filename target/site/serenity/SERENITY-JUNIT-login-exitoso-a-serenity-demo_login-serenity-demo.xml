@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Login exitoso a Serenity Demo" skipped="0" tests="1" time="13.0" timestamp="2021-07-29T11:16:52.971-05:00[America/Bogota]"><testcase name="Login Serenity demo"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.choucair.formacion.definition.CrearUnitBusinessDefinition.credenciales_y(CrearUnitBusinessDefinition.java:23)&#13;
+✽.Given credenciales "admin" y "serenity"(src/test/resources/features/demo.feature:24)&#13;
+</system-err></testcase></testsuite>
